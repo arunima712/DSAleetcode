@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arunima712/DSAleetcode/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -19,4 +20,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/arunima712/DSAleetcode/tree/master/0190-reverse-bits) |
+| [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
+## Array
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
