@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/arunima712/DSAleetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/arunima712/DSAleetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
 ## String
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/arunima712/DSAleetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
