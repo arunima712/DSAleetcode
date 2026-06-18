@@ -11,10 +11,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/arunima712/DSAleetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/arunima712/DSAleetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/arunima712/DSAleetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/arunima712/DSAleetcode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/arunima712/DSAleetcode/tree/master/0058-length-of-last-word) |
+| [0412-fizz-buzz](https://github.com/arunima712/DSAleetcode/tree/master/0412-fizz-buzz) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/arunima712/DSAleetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/arunima712/DSAleetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
