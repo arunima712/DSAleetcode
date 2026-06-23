@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/arunima712/DSAleetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/arunima712/DSAleetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/arunima712/DSAleetcode/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/arunima712/DSAleetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/arunima712/DSAleetcode/tree/master/0102-binary-tree-level-order-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/arunima712/DSAleetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
